@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T06:28:13.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.61" etag="KKYVP5LhvDX3UJOekafx" version="14.2.7" type="github"><diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">xVZdb5swFP01PFYiOEXZY/PVTmqrSWm3ZwcuYMVwmTEJ2a+fjU0wyT6qKSN5IOace33utWx8PLLIm0dBy+wFY+Be4MeNR5ZeEJDQV08NHA0QkokBUsFiAznAhv0AC9q8tGYxVINAicglK4dghEUBkRxgVAg8DMMS5EPVkqZwAWwiyi/RbyyWmUFnQdjjT8DSrFOehJ8Ms6XRLhVYF1bPC0jS/gyd024u22iV0RgPDkRWHlkIRGlGebMArpe2WzaTt/4Ne6pbQCE/kqA5nbGnvIau5JCr3Hmpy5NHuyTh91rXNM+pSFnhkQfF+mWjngpsO9P4ncTScFOHk9DIO8pZavMiVRyIIR1DhIJKhjZGrSAIzgropdUotf9tgZUUWKQd+l7pKQ2j+h2SDlGeY5k4R/6pcw6JNORMk+dFf47/VMP/UNQL8kpzGFt3lVPGxxZ9wS3jo7f6Jmq4xRK/smh3C90vtKoOKEbfyqcTX9KiwzaSyrpyT7xDdvD24myPVfIzreQz6gluchK+gmDJ8SZH/3rS7vOXegsBVMIbu85J+KCc/q72X/Pr7rC/lvBexmN2bOSGHQ8Fg4FUsAchmfJRD+a2X7Z+YG7v/qXZPnNUUQlvbU/ClB0h8wQLaV3gJLDva5ozrv3jE/A96Fn1ZS1zroPs9b+DBXIUrTbxfULCUDOdqdJhWsEJWk5Xk/W9lbhMvrBP1lHpvqBxIGunHgFzkEJtd9+ys5m1dtb6Tol9P/RGctL548wxkcG9Bak1r+lp7t7AqYH1cN1r7xVbzvHjZPUT</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-20T06:33:54.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36 Edg/83.0.478.61" etag="1kU-jNJSNz_vYODISLiC" version="14.2.7" type="github">
+  <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
+    <mxGraphModel dx="360" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="22" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center ; text-decoration: underline&quot;&gt;&lt;strong&gt;User&lt;/strong&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Id&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;UserName&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Email&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Mobile&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;TrueName&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;NickName&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;Password&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;&lt;span&gt;Status&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;LastLogin&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;MobileVerify&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px&quot;&gt;EmailVerify&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;CreateTime&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;CreateUserId&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;UpdateTime&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px&quot;&gt;UpdateUserId&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" parent="1" vertex="1">
+          <mxGeometry x="880" y="430" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="nVDmT5Ufkq6tdtZXx8Lk-22" value="Container" style="swimlane;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="430" width="200" height="200" as="geometry">
+            <mxRectangle x="1110" y="430" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nVDmT5Ufkq6tdtZXx8Lk-27" value="Classname" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="240" width="270" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="nVDmT5Ufkq6tdtZXx8Lk-28" value="Id: int auto_generate identity" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nVDmT5Ufkq6tdtZXx8Lk-27">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nVDmT5Ufkq6tdtZXx8Lk-29" value="UserName: varchar(50) not null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nVDmT5Ufkq6tdtZXx8Lk-27">
+          <mxGeometry y="52" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nVDmT5Ufkq6tdtZXx8Lk-30" value="Mobile varchar(20) not null" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nVDmT5Ufkq6tdtZXx8Lk-27">
+          <mxGeometry y="78" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="nVDmT5Ufkq6tdtZXx8Lk-31" value="&lt;div style=&quot;box-sizing: border-box ; width: 100% ; background: #e4e4e4 ; padding: 2px&quot;&gt;User&lt;/div&gt;&lt;table style=&quot;width: 100% ; font-size: 1em&quot; cellpadding=&quot;2&quot; cellspacing=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;PK&lt;/td&gt;&lt;td&gt;uniqueId&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;td&gt;UserName&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;Email&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;fillColor=#D4E1F5;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="390" width="180" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
